@@ -1,0 +1,6 @@
+/Users/atlas/Desktop/Today/CIT365/ConsoleApplication/ConsoleApplication/bin/Debug/ConsoleApplication.exe
+/Users/atlas/Desktop/Today/CIT365/ConsoleApplication/ConsoleApplication/bin/Debug/ConsoleApplication.pdb
+/Users/atlas/Desktop/Today/CIT365/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.csprojAssemblyReference.cache
+/Users/atlas/Desktop/Today/CIT365/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/atlas/Desktop/Today/CIT365/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.exe
+/Users/atlas/Desktop/Today/CIT365/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.pdb
