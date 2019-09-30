@@ -1,0 +1,9 @@
+C:\Users\atlas\Desktop\CIT365\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\atlas\Desktop\CIT365\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\atlas\Desktop\CIT365\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\atlas\Desktop\CIT365\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\atlas\Desktop\CIT365\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\atlas\Desktop\CIT365\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\atlas\Desktop\CIT365\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\atlas\Desktop\CIT365\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\atlas\Desktop\CIT365\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
