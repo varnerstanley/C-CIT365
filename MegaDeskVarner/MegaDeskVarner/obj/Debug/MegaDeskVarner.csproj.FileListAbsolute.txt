@@ -1,0 +1,12 @@
+C:\Users\atlas\Desktop\CIT365\MegaDeskVarner\MegaDeskVarner\bin\Debug\MegaDeskVarner.exe.config
+C:\Users\atlas\Desktop\CIT365\MegaDeskVarner\MegaDeskVarner\bin\Debug\MegaDeskVarner.exe
+C:\Users\atlas\Desktop\CIT365\MegaDeskVarner\MegaDeskVarner\bin\Debug\MegaDeskVarner.pdb
+C:\Users\atlas\Desktop\CIT365\MegaDeskVarner\MegaDeskVarner\obj\Debug\MegaDeskVarner.csprojAssemblyReference.cache
+C:\Users\atlas\Desktop\CIT365\MegaDeskVarner\MegaDeskVarner\obj\Debug\MegaDeskVarner.AddQuote.resources
+C:\Users\atlas\Desktop\CIT365\MegaDeskVarner\MegaDeskVarner\obj\Debug\MegaDeskVarner.MainMenu.resources
+C:\Users\atlas\Desktop\CIT365\MegaDeskVarner\MegaDeskVarner\obj\Debug\MegaDeskVarner.Properties.Resources.resources
+C:\Users\atlas\Desktop\CIT365\MegaDeskVarner\MegaDeskVarner\obj\Debug\MegaDeskVarner.csproj.GenerateResource.cache
+C:\Users\atlas\Desktop\CIT365\MegaDeskVarner\MegaDeskVarner\obj\Debug\MegaDeskVarner.exe
+C:\Users\atlas\Desktop\CIT365\MegaDeskVarner\MegaDeskVarner\obj\Debug\MegaDeskVarner.pdb
+C:\Users\atlas\Desktop\CIT365\MegaDeskVarner\MegaDeskVarner\obj\Debug\MegaDeskVarner.ViewAllQuotes.resources
+C:\Users\atlas\Desktop\CIT365\MegaDeskVarner\MegaDeskVarner\obj\Debug\MegaDeskVarner.SearchQuotes.resources
