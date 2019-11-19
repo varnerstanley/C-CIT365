@@ -1,28 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/atlas/Desktop/Today/C-CIT365/MegaDeskWeb/MegaDeskWeb/MegaDeskWeb.csproj": {}
+    "Z:\\MegaDeskWeb\\MegaDeskWeb\\MegaDeskWeb.csproj": {}
   },
   "projects": {
-    "/Users/atlas/Desktop/Today/C-CIT365/MegaDeskWeb/MegaDeskWeb/MegaDeskWeb.csproj": {
+    "Z:\\MegaDeskWeb\\MegaDeskWeb\\MegaDeskWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/atlas/Desktop/Today/C-CIT365/MegaDeskWeb/MegaDeskWeb/MegaDeskWeb.csproj",
+        "projectUniqueName": "Z:\\MegaDeskWeb\\MegaDeskWeb\\MegaDeskWeb.csproj",
         "projectName": "MegaDeskWeb",
-        "projectPath": "/Users/atlas/Desktop/Today/C-CIT365/MegaDeskWeb/MegaDeskWeb/MegaDeskWeb.csproj",
-        "packagesPath": "/Users/atlas/.nuget/packages/",
-        "outputPath": "/Users/atlas/Desktop/Today/C-CIT365/MegaDeskWeb/MegaDeskWeb/obj/",
+        "projectPath": "Z:\\MegaDeskWeb\\MegaDeskWeb\\MegaDeskWeb.csproj",
+        "packagesPath": "C:\\Users\\atlas\\.nuget\\packages\\",
+        "outputPath": "Z:\\MegaDeskWeb\\MegaDeskWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "/Users/atlas/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\atlas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,10 +59,6 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "(, )"
             }
           },
           "imports": [
@@ -80,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

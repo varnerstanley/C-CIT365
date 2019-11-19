@@ -26,6 +26,8 @@ namespace MegaDeskWeb.Pages.Quotes
         [BindProperty]
         public DeskQuote DeskQuote { get; set; }
 
+        public SelectList Materials { get; set; }
+
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for
         // more details see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
@@ -34,8 +36,14 @@ namespace MegaDeskWeb.Pages.Quotes
             {
                 return Page();
             }
-
+            DeskQuote.setQuoteDate();
             _context.DeskQuote.Add(DeskQuote);
+            // Run functions to calculate other required fields
+            DeskQuote.calcSurfaceArea();
+            
+            DeskQuote.calcRushPricing();
+            DeskQuote.getMaterialPrice();
+            DeskQuote.calcTotalCost();
             await _context.SaveChangesAsync();
 
             return RedirectToPage("./Index");
