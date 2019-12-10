@@ -1,0 +1,11 @@
+Z:\Forms_Xamarin\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+Z:\Forms_Xamarin\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+Z:\Forms_Xamarin\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+Z:\Forms_Xamarin\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+Z:\Forms_Xamarin\Notes\bin\Debug\netstandard2.0\Notes.dll
+Z:\Forms_Xamarin\Notes\bin\Debug\netstandard2.0\Notes.pdb
+Z:\Forms_Xamarin\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+Z:\Forms_Xamarin\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+Z:\Forms_Xamarin\Notes\obj\Debug\netstandard2.0\Notes.dll
+Z:\Forms_Xamarin\Notes\obj\Debug\netstandard2.0\Notes.pdb
+Z:\Forms_Xamarin\Notes\obj\Debug\netstandard2.0\XamlC.stamp
